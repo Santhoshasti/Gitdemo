@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31226" started-at="2019-12-28T15:25:22Z" finished-at="2019-12-28T15:25:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31226" started-at="2019-12-28T15:25:22Z" finished-at="2019-12-28T15:25:53Z">
+      <class name="com.eCommerce.Login.LoginTest">
+        <test-method status="PASS" signature="BrowserSetup()[pri:0, instance:com.eCommerce.Login.LoginTest@149e9bb]" name="BrowserSetup" is-config="true" duration-ms="18808" started-at="2019-12-28T15:25:22Z" finished-at="2019-12-28T15:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method status="PASS" signature="LoginVerify()[pri:0, instance:com.eCommerce.Login.LoginTest@149e9bb]" name="LoginVerify" duration-ms="8924" started-at="2019-12-28T15:25:40Z" finished-at="2019-12-28T15:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginVerify -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eCommerce.Login.LoginTest@149e9bb]" name="tearDown" is-config="true" duration-ms="3452" started-at="2019-12-28T15:25:49Z" finished-at="2019-12-28T15:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eCommerce.Login.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

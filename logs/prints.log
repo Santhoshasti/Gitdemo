@@ -1,0 +1,7 @@
+20:55:40.929 [main] INFO  com.eCommerce.Login.LoginTest - Entering the URL
+20:55:44.101 [main] INFO  com.eCommerce.Login.LoginTest - Click on the Signin button
+20:55:44.419 [main] INFO  com.eCommerce.Login.LoginTest - Click on the EmailAddress
+20:55:44.523 [main] INFO  com.eCommerce.Login.LoginTest - Enter the email in EmailAddress
+20:55:44.609 [main] INFO  com.eCommerce.Login.LoginTest - Enter the Password
+20:55:46.918 [main] INFO  com.eCommerce.Login.LoginTest - Click on Login button
+20:55:53.375 [main] INFO  com.eCommerce.Login.LoginTest - Browser Closing

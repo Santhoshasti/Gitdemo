@@ -1,0 +1,7 @@
+22:29:20.121 [main] INFO  com.eCommerce.Login.LoginTest - Click on the Signin button
+22:29:20.512 [main] INFO  com.eCommerce.Login.LoginTest - Click on the EmailAddress
+22:29:20.652 [main] INFO  com.eCommerce.Login.LoginTest - Enter the email in EmailAddress
+22:29:20.781 [main] INFO  com.eCommerce.Login.LoginTest - Enter the Password
+22:29:23.168 [main] INFO  com.eCommerce.Login.LoginTest - Click on Login button
+22:29:30.061 [main] INFO  com.eCommerce.Login.LoginTest - Browser Closing
+20:55:32.230 [main] INFO  com.eCommerce.Login.LoginTest - Start invokeing browser
